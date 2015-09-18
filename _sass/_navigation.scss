@@ -35,6 +35,7 @@ header {
   nav.right {
     @include span-columns(4);
     @include vertical-align-center;
+    text-align: right;
 
     a {
       display: inline-block;
