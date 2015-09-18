@@ -1,0 +1,19 @@
+section {
+  @include outer-container;
+
+  aside {
+    @include span-columns(3);
+  }
+
+  article {
+    @include span-columns(9);
+  }
+}
+
+header, footer {
+  @include outer-container;
+}
+
+.field {
+  margin-bottom: 0.5em;
+}

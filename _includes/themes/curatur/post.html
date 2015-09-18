@@ -1,0 +1,12 @@
+{% include curatur/navigation.html %}
+
+<section id="post">
+  <h1 class="title">{{ page.title }}</h1>
+  <aside class="date">
+    <span>{{ page.date | date_to_long_string }}</span>
+  </aside>
+  <article class="content">
+    {{ content }}
+  </article>
+</section>
+

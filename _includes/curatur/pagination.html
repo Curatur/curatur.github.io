@@ -1,0 +1,19 @@
+<section class="pagination">
+  <ul>
+    {% if page.previous %}
+      <li class="page-prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&laquo; Previous</a></li>
+    {% else %}
+      <li class="page-prev disabled"><a>&larr; Previous</a></li>
+    {% endif %}
+      <li>
+        <ul>
+          <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a></li>
+        </ul>
+      </li>
+    {% if page.next %}
+      <li class="page-next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &raquo;</a></li>
+    {% else %}
+      <li class="page-next disabled"><a>Next &rarr;</a>
+    {% endif %}
+  </ul>
+</section>

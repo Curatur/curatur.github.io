@@ -1,0 +1,16 @@
+#title {
+  color: $medium-color;
+
+  h1 {
+    .tagline {
+      font-size: 0.5em;
+      font-style: italic;
+      font-weight: 200;
+    }
+
+    .site {
+      font-size: 1.5em;
+      font-family: "Oswald", Helvetica, sans-serif;
+    }
+  }
+}

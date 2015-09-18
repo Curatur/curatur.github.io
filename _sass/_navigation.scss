@@ -1,0 +1,44 @@
+@mixin vertical-align-center($position: relative) {
+  position: $position;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+header {
+  @include outer-container;
+  height: 5em;
+  padding: 0 0.2em;
+
+  .navlink {
+    margin-left: 1em;
+  }
+
+  nav.left {
+    @include span-columns(8);
+    @include vertical-align-center;
+
+    div.header-logo {
+      @include span-columns(2);
+
+      img {
+        height: 4em;
+      }
+    }
+
+    div#site-title {
+      margin-left: 5em;
+    }
+  }
+
+  nav.right {
+    @include span-columns(4);
+    @include vertical-align-center;
+
+    a {
+      display: inline-block;
+    }
+  }
+
+}

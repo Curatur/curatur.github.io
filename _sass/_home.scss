@@ -1,0 +1,27 @@
+#home {
+  @include outer-container;
+
+  article {
+    @include span-columns(12);
+    background-image: url(/images/gp1.jpg);
+    background-size: 100%;
+    background-position: center center;
+    font-size: 1.5em;
+    padding: 2em;
+
+    h1 {
+      padding: 0.5em;
+      background-color: fade-out(#000, 0.4);
+      color: $light-color;
+      @include border-top-radius(5px);
+      @include border-bottom-radius(5px);
+    }
+
+    p {
+      padding: 0.5em;
+      background-color: fade-out(#000, 0.4);
+      color: $medium-text-color;
+    }
+  }
+}
+

@@ -1,0 +1,15 @@
+section#page {
+  @include outer-container;
+
+  article {
+    @include span-columns(12);
+    padding: 2em;
+    color: $dark-text-color;
+
+    p {
+      padding: 0.5em;
+      color: $dark-text-color;
+    }
+  }
+}
+
