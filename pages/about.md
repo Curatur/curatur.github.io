@@ -24,6 +24,10 @@ future.
   </div>
 </h2>
 
+<div class="profile-photo">
+  <img src="/images/damon.jpg" alt="Damon portrait" />
+</div>
+
 Damon has been working with web technologies for many years. A former academic
 and CTO in the music business, he has gained industry experience in many
 different areas, but has been focusing exclusively on web and mobile
