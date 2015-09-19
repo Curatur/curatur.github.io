@@ -2,6 +2,10 @@ section#page {
   @include outer-container;
   padding: 1em;
 
+  @include media($mobile) {
+    padding: 0.2em;
+  }
+
   article {
     @include span-columns(12);
     color: $dark-text-color;
