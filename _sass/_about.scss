@@ -5,13 +5,18 @@
   margin-bottom: 2em;
   margin-left: 1em;
   text-align: center;
+
   @include media($large-mobile) {
     img {
       width: 120px;
     }
   }
+
   @include media($mobile) {
     float: none;
+    margin: 0;
+    margin-bottom: 1.5em;
+
     img {
       width: 180px;
       margin: 0 auto;
