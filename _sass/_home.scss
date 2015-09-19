@@ -4,7 +4,7 @@
   article {
     @include span-columns(12);
     background-image: url(/images/gp1.jpg);
-    background-size: 100%;
+    background-size: cover;
     background-position: center center;
     font-size: 1.5em;
     padding: 2em;

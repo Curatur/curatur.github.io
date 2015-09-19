@@ -2,7 +2,7 @@ $mobile-size: 320px;
 $large-mobile-size: 640px;
 $tablet-size: 960px;
 $desktop-size: 1280px;
-$big-display-size: 1600px;
+$big-display-size: 1800px;
 
 $mobile: new-breakpoint(max-width $mobile-size 4);
 $large-mobile: new-breakpoint(max-width $large-mobile-size 4);

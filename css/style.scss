@@ -9,6 +9,7 @@ layout: null
 @import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css");
 @import url("//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css");
 
+@import 'mixins/bottom_align';
 @import 'media';
 @import 'buttons';
 @import 'colors';
@@ -24,6 +25,8 @@ layout: null
 @import 'contact';
 @import 'page';
 @import 'post';
+
+@import 'mobile';
 
 body p {
   font-size: 1.2em;
