@@ -13,6 +13,7 @@ body {
 
   form#contact {
     @include span-columns(12);
+    margin-bottom: 2em;
 
     input, textarea {
       width: 30em;
