@@ -1,6 +1,6 @@
 section#page {
   @include outer-container;
-  padding: 2em;
+  padding: 1em;
 
   article {
     @include span-columns(12);
