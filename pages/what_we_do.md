@@ -26,12 +26,6 @@ covering:
 - Test-driven and behavior-driven development (TDD & BDD).
 - Writing user stories that provide value to the business.
 
-Please drop us a line if you have any questions at all.
-
-
-
-
-
-
-
+Please [drop us a line](/pages/contact.html) if you have any
+questions at all.
 
