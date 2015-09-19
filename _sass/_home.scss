@@ -10,6 +10,16 @@
     padding: 2em;
     text-align: center;
 
+    @include media($mobile) {
+      font-size: 1.0em;
+      padding: 0.2em;
+    }
+
+    @include media($large-mobile) {
+      font-size: 1.2em;
+      padding: 1em;
+    }
+
     h1 {
       padding: 0.5em;
       background-color: fade-out(#000, 0.4);
