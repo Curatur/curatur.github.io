@@ -9,3 +9,5 @@ url: http://www.curatur.com
 twitter_username: curatur
 github_username:  curatur
 markdown: kramdown
+gems:
+  - jekyll-sitemap
