@@ -2,6 +2,7 @@
 layout: page
 title:  "What we do"
 date:   2013-12-16 09:00:00
+description: Curatur uses Agile best practices and open source to build reliable software efficiently. We also offer training in everything we do.
 categories: services
 ---
 

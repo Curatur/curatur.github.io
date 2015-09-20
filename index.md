@@ -4,6 +4,7 @@ layout: home
 category : about
 title: Curatur
 tagline: "Collaboratively crafted software"
+description: Curatur uses many different technologies to collaboratively craft software. Please get in touch to discuss your software needs.
 ---
 
 # Let's design and develop your product together.

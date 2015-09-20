@@ -2,6 +2,7 @@
 layout: page
 title:  "About"
 date:   2013-12-16 09:00:00
+description: This page tells you about what Curatur does, describes how we communicate with clients, and gives a rundown of the team members.
 categories: meta
 ---
 

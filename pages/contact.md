@@ -2,6 +2,7 @@
 layout: page
 title:  "Reach Out"
 date:   2013-12-16 09:00:00
+description: This is the contact page with telephone number, email and social media links including Twitter, Facebook, GitHub and LinkedIn.
 categories: meta
 ---
 
