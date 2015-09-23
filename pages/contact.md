@@ -2,9 +2,11 @@
 layout: page
 title:  "Reach Out"
 date:   2013-12-16 09:00:00
-description: This is the contact page with telephone number, email and social media links including Twitter, Facebook, GitHub and LinkedIn.
+description: We are located in Fort Lauderdale in sunny South Florida. Get in touch to arrange a meeting to discuss your requirements.
 categories: meta
 ---
+
+We are located in sunny Fort Lauderdale, Florida and are within easy reach of the Palm Beaches and Miami.
 
 ## Email or call.
 
