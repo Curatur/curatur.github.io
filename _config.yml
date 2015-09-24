@@ -1,13 +1,18 @@
 title: Curatur
 email: hello@curatur.com
 description: >
-  Curatur—collaboratively crafted software. With Ruby, Ruby on Rails, JavaScript
-  and other technologies, we use Lean and Agile methods to work together with our
-  clients to build well-crafted software that stands the test of time.
+  Curatur uses Ruby, Ruby on Rails, JavaScript and other technologies, we use
+  Lean and Agile methods to work together with our clients to build
+  well-crafted software that stands the test of time.
+subtitle: Curatur software development in Fort Lauderdale, Florida
+logo_large: http://www.curatur.com/press/curatur-logo-large.png
 baseurl: ""
 url: http://www.curatur.com
 twitter_username: curatur
+twitter_domain: Curatur
 github_username:  curatur
+facebook_admin: damon@curatur.com
+google_url: https://plus.google.com/+CuraturSoftware
 markdown: kramdown
 gems:
   - jekyll-sitemap

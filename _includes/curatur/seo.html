@@ -1,0 +1,22 @@
+    {% if page.description %}
+    <meta name="description" content="{{ page.description }}">
+    {% endif %}
+    <!-- SEO -->
+    <link rel="canonical" href="{{ site.url }}" />
+    <link rel="publisher" href="{{ site.google_url }}"/>
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Curatur software development in Fort Lauderdale, Florida" />
+    <meta property="og:description" content="{{ site.description }}" />
+    <meta property="og:url" content="{{ site.url }}" />
+    <meta property="og:site_name" content="Curatur" />
+    <meta property="fb:admins" content="damon@curatur.com" />
+    <meta property="og:image" content="{{ site.logo_large }}" />
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:description" content="{{ site.description }}"/>
+    <meta name="twitter:title" content="{{ site.subtitle }}"/>
+    <meta name="twitter:site" content="@{{ site.twitter_username }}"/>
+    <meta name="twitter:domain" content="{{ site.twitter_domain }}"/>
+    <meta name="twitter:image:src" content="{{ site.logo_large }}"/>
+    <meta name="twitter:creator" content="@{{ site.twitter_username }}"/>
+    <!-- /SEO -->
