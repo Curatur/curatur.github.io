@@ -31,22 +31,22 @@ future.
     </div>
   </h2>
 
-  <p>
-    Damon has been working with web technologies for many years. A former academic
-    and CTO in the music business, he has gained industry experience in many
-    different areas, but has been focusing exclusively on web and mobile
-    technologies for the last several years. He is deeply involved in the South
-    Florida tech community and organizes the [Broward Ruby
-    Brigade](http://meetup.broward-rb.org) and [Rails Girls South
-    Florida](http://meetup.railsgirls-sfl.org). You may also find him at events
-    supporting women in technology or at Code for Fort Lauderdale and Code for
-    Miami hack days.
-  </p>
+  <div markdown="1">
 
-  <p>
-    Damon is fluent in a number of European languages, including English, German,
-    French, Spanish and Italian.
-  </p>
+Damon has been working with web technologies for many years. A former academic
+and CTO in the music business, he has gained industry experience in many
+different areas, but has been focusing exclusively on web and mobile
+technologies for the last several years. He is deeply involved in the South
+Florida tech community and organizes the [Broward Ruby
+Brigade](http://meetup.broward-rb.org) and [Rails Girls South
+Florida](http://meetup.railsgirls-sfl.org). You may also find him at events
+supporting women in technology or at Code for Fort Lauderdale and Code for
+Miami hack days.
+
+Damon is fluent in a number of European languages, including English, German,
+French, Spanish and Italian.
+
+  </div>
 </section>
 
 <section>
@@ -60,14 +60,12 @@ future.
     </div>
   </h2>
 
-  <p>
-    With a background in Telecommunications Engineering and many years teaching
-    Calculus in public schools, José offers experience well beyond software
-    development.
-  </p>
+  <div markdown="1">
+With a background in Telecommunications Engineering and many years teaching
+Calculus in public schools, José offers experience well beyond software
+development.
 
-  <p>
-    José is fluent in both English and Spanish.
-  </p>
+José is fluent in both English and Spanish.
+  </div>
 </section>
 
