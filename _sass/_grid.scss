@@ -1,6 +1,6 @@
 section {
   @include outer-container;
-  padding-bottom: 1em;
+  padding-bottom: 2em;
 
   aside {
     @include span-columns(3);
