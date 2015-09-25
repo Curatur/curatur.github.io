@@ -1,14 +1,15 @@
 .profile-photo {
-  float: right;
+  float: left;
   position: relative;
   top: 1em;
   margin-bottom: 2em;
-  margin-left: 1em;
+  margin-right: 1em;
   text-align: center;
+  width: 6em;
 
   @include media($large-mobile) {
     img {
-      width: 120px;
+      width: 4em;
     }
   }
 
@@ -18,7 +19,7 @@
     margin-bottom: 1.5em;
 
     img {
-      width: 180px;
+      width: 3em;
       margin: 0 auto;
     }
   }

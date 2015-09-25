@@ -151,5 +151,21 @@ body {
 
   .social-media {
     display: inline-block;
+
+    @include media($large-mobile) {
+      display: block;
+
+      .fa {
+        size: 1.5em;
+      }
+    }
+
+    @include media($mobile) {
+      display: block;
+
+      .fa {
+        size: 2em;
+      }
+    }
   }
 }
