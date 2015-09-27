@@ -7,8 +7,9 @@ tagline: "Collaboratively crafted software"
 description: >
   Let's design and develop your product together. With Ruby, Ruby on Rails,
   JavaScript and other technologies, we use Lean and Agile methods to work
-  together with our clients to build well-crafted software that stands the
-  test of time.
+  together with our clients to build well-crafted software that stands the test
+  of time. We are located in sunny South Florida and are happy to work with both
+  local and remote clients.
  
 ---
 
