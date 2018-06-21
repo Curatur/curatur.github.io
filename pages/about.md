@@ -38,11 +38,9 @@ and CTO in the music business, he has gained industry experience in many
 different areas, but has been focusing exclusively on web and mobile
 technologies for the last several years. 
 
-He is deeply involved in the South Florida tech community and organizes the
-[Broward Ruby Brigade](http://meetup.broward-rb.org) and [Rails Girls South
-Florida](http://meetup.railsgirls-sfl.org). You may also find him at events
-supporting women in technology or at Code for Fort Lauderdale and Code for
-Miami hack days.
+In recent years, Damon has worked on a number of products in the healthcare
+industry, touching all parts of the development and deployment process, from
+configuring infrastructure to building user interactions in the front-end.
 
 Damon is fluent in a number of European languages, including English, German,
 French, Spanish and Italian.
@@ -75,10 +73,6 @@ classification problems.
 
 An advocate of Agile Development and Best Practices, he strives to deliver high
 quality code with reliable results.
-
-José is an active participant in the South Florida tech community, and has
-taken part in Hack and Tell, Makers Fair, as well as volunteering at the
-Boynton Beach Hacklab, Boynton Coders, and the Broward Ruby Brigade.
 
 José is fluent in both English and Spanish.
 
