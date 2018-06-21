@@ -14,5 +14,5 @@ github_username:  curatur
 facebook_admin: damon@curatur.com
 google_url: https://plus.google.com/+CuraturSoftware
 markdown: kramdown
-gems:
+plugins:
   - jekyll-sitemap
