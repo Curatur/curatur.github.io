@@ -21,7 +21,6 @@ future.
   Damon Davison - <em>Managing Director and Team Lead</em>
   <div class="social-media">
     <a href="https://www.linkedin.com/in/damondavison"><i class="fa fa-linkedin-square"></i></a>
-    <a href="https://twitter.com/intent/follow?original_referer=http%3A%2F%2Fcuratur.com%2F&region=follow_link&screen_name=wynmaestro&tw_p=followbutton&variant=2.0"><i class="fa fa-twitter-square"></i></a>
     <a href="https://github.com/allolex"><i class="fa fa-github-square"></i></a>
   </div>
 </h2>
